@@ -1,11 +1,11 @@
-# docker
-Docker Learning
+#Docker
 
-Hi
+##install Docker
+
+
+
+## get images
 
 ```
-git status
-git add
-git commit
+sudo docker images
 ```
-
