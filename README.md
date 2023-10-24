@@ -10,7 +10,13 @@
 sudo docker images
 ```
 
-## all containers
+## all containers (any status)
 ```
 sudo docker ps -a
+```
+
+## containers in running status
+
+```
+sudo docker ps
 ```
