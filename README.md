@@ -9,3 +9,8 @@
 ```
 sudo docker images
 ```
+
+## all containers
+```
+sudo docker ps -a
+```
